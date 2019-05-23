@@ -64,7 +64,8 @@ html_theme_options = {
   'pre_bg': '#201f1f',
 #  'fixed_sidebar': True,
 }
-pygments_style = 'atelier_cave_dark'
+# pygments_style = 'atelier_cave_dark' # Lost...
+pygments_style = 'atelier_cave'
 html_favicon = './ppbk_icon1.png'
 html_sidebars = {
     '**': [ 'localtoc.html', 'relations.html', 'searchbox.html' ]

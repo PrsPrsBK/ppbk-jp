@@ -1,0 +1,23 @@
+{
+  "files.exclude": {
+    "**/_build/**": true
+  },
+  "files.watcherExclude": {
+    "**/_build": true
+  },
+  "editor.tabSize": 2,
+  "editor.renderWhitespace": "all",
+  "SymbolByCtags":{
+    "target": [
+      {
+        "name": "reStructuredText(just description)",
+        "glob": "**/*.rst",
+        "ends": [ ".rst" ],
+        "kindMap": {
+          "s": "Struct",
+        },
+        "sro": "|"
+      }
+    ]
+  }
+}

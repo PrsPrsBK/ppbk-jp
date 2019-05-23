@@ -1,0 +1,10 @@
+_build/
+_ext/
+_static/
+_templates/
+Makefile
+make.bat
+*.txt
+tags
+.tags
+TAGS
